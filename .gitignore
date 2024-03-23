@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 My_Datas
-
+person_analysis
 # C extensions
 *.so
 
