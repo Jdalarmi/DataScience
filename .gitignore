@@ -6,6 +6,7 @@ My_Datas
 person_analysis
 # C extensions
 *.so
+teste.py
 
 # Distribution / packaging
 .Python
